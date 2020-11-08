@@ -1,2 +1,4 @@
-# top-left-2020
-Top Left website, 2020 update
+# Top Left eSports
+Top Left is a streaming team from the UK, this is the source for their website, updated for 2020.
+
+Written in PHP
